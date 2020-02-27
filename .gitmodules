@@ -1,0 +1,3 @@
+[submodule "pyFileFixity"]
+	path = pyFileFixity
+	url = https://github.com/lrq3000/pyFileFixity
